@@ -1,5 +1,5 @@
 # P-TOP
-Converts Python scripts to OCR 'friendly' pseudcode 
+Converts Python scripts To OCR 'friendly' Pseudcode 
 
 # What?
 Feed me a Python script, I will birth you the pseudcode for it
