@@ -2,7 +2,7 @@
 Converts Python scripts To OCR 'friendly' Pseudcode 
 
 # What?
-Feed me a Python script, I will birth you the pseudcode for it
+Feed me a Python script. Using various magic, it will create a second .py file containing pseudocode for said file.
 
 # Why?
 Why not?
